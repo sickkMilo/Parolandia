@@ -1,0 +1,13 @@
+[
+  { "immagine": "cane", "corretta": "cane", "distrattori": ["gatto", "pane"] },
+  { "immagine": "sole", "corretta": "sole", "distrattori": ["luna", "cuore"] },
+  { "immagine": "mela", "corretta": "mela", "distrattori": ["pera", "kiwi"] },
+  { "immagine": "casa", "corretta": "casa", "distrattori": ["cassa", "tetto"] },
+  { "immagine": "pesce", "corretta": "pesce", "distrattori": ["peste", "pasta"] },
+  { "immagine": "pane", "corretta": "pane", "distrattori": ["pino", "pera"] },
+  { "immagine": "gatto", "corretta": "gatto", "distrattori": ["topo", "orso"] },
+  { "immagine": "luna", "corretta": "luna", "distrattori": ["culla", "nube"] },
+  { "immagine": "fiore", "corretta": "fiore", "distrattori": ["foglia", "frutto"] },
+  { "immagine": "palla", "corretta": "palla", "distrattori": ["sfera", "pala"] }
+]
+
