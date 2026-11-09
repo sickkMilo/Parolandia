@@ -1,0 +1,13 @@
+[
+  { "audio": "cane", "corretta": "cane", "distrattori": ["gatto", "pane"] },
+  { "audio": "sole", "corretta": "sole", "distrattori": ["luna", "cuore"] },
+  { "audio": "mela", "corretta": "mela", "distrattori": ["pera", "kiwi"] },
+  { "audio": "casa", "corretta": "casa", "distrattori": ["cassa", "tetto"] },
+  { "audio": "pesce", "corretta": "pesce", "distrattori": ["peste", "pasta"] },
+  { "audio": "pane", "corretta": "pane", "distrattori": ["pino", "pera"] },
+  { "audio": "gatto", "corretta": "gatto", "distrattori": ["topo", "orso"] },
+  { "audio": "luna", "corretta": "luna", "distrattori": ["culla", "nube"] },
+  { "audio": "fiore", "corretta": "fiore", "distrattori": ["foglia", "frutto"] },
+  { "audio": "palla", "corretta": "palla", "distrattori": ["sfera", "pala"] }
+]
+

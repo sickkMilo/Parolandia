@@ -1,0 +1,14 @@
+[
+  { "audio": "banana", "corretta": "banana", "distrattori": ["balena", "panino"] },
+  { "audio": "scarpa", "corretta": "scarpa", "distrattori": ["carpa", "sandalo"] },
+  { "audio": "telefono", "corretta": "telefono", "distrattori": ["telecomando", "microfono"] },
+  { "audio": "valigia", "corretta": "valigia", "distrattori": ["vacanza", "viaggio"] },
+  { "audio": "camion", "corretta": "camion", "distrattori": ["macchina", "treno"] },
+  { "audio": "carota", "corretta": "carota", "distrattori": ["patata", "banana"] },
+  { "audio": "forchetta", "corretta": "forchetta", "distrattori": ["cucchiaio", "coltello"] },
+  { "audio": "zebra", "corretta": "zebra", "distrattori": ["asino", "tigre"] },
+  { "audio": "occhiali", "corretta": "occhiali", "distrattori": ["orologio", "collana"] },
+  { "audio": "borsa", "corretta": "borsa", "distrattori": ["sacca", "zaino"] }
+]
+
+

@@ -1,0 +1,14 @@
+[
+  { "immagine": "banana", "corretta": "banana", "distrattori": ["balena", "panino"] },
+  { "immagine": "scarpa", "corretta": "scarpa", "distrattori": ["carpa", "sandalo"] },
+  { "immagine": "telefono", "corretta": "telefono", "distrattori": ["telecomando", "microfono"] },
+  { "immagine": "valigia", "corretta": "valigia", "distrattori": ["vacanza", "viaggio"] },
+  { "immagine": "camion", "corretta": "camion", "distrattori": ["macchina", "treno"] },
+  { "immagine": "carota", "corretta": "carota", "distrattori": ["patata", "banana"] },
+  { "immagine": "forchetta", "corretta": "forchetta", "distrattori": ["cucchiaio", "coltello"] },
+  { "immagine": "zebra", "corretta": "zebra", "distrattori": ["asino", "tigre"] },
+  { "immagine": "occhiali", "corretta": "occhiali", "distrattori": ["orologio", "collana"] },
+  { "immagine": "borsa", "corretta": "borsa", "distrattori": ["sacca", "zaino"] }
+]
+
+

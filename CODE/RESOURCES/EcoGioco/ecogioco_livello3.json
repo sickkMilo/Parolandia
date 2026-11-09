@@ -1,0 +1,14 @@
+[
+  { "audio": "farfalla", "corretta": "farfalla", "distrattori": ["libellula", "ape"] },
+  { "audio": "pallone", "corretta": "pallone", "distrattori": ["pacca", "palloncino"] },
+  { "audio": "coccodrillo", "corretta": "coccodrillo", "distrattori": ["serpente", "lucertola"] },
+  { "audio": "elicottero", "corretta": "elicottero", "distrattori": ["aereo", "drone"] },
+  { "audio": "foglietto", "corretta": "foglietto", "distrattori": ["giornale", "libro"] },
+  { "audio": "arcobaleno", "corretta": "arcobaleno", "distrattori": ["nuvola", "sole"] },
+  { "audio": "lavagna", "corretta": "lavagna", "distrattori": ["quaderno", "banco"] },
+  { "audio": "aspirapolvere", "corretta": "aspirapolvere", "distrattori": ["phon", "robot"] },
+  { "audio": "automobile", "corretta": "automobile", "distrattori": ["camion", "trattore"] },
+  { "audio": "bicicletta", "corretta": "bicicletta", "distrattori": ["monopattino", "carrello"] }
+]
+
+
